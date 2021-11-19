@@ -55,6 +55,10 @@ screen -r <name> -X quit # will close a screen by name
 ```
 When attached to a screen, do not use CTRL+C to detach, except you want to terminate the screen. Use CTRL+A+D instead. It will keep the screen running and detach you from it.
 
+# Plugins
+
+Read more about how to program them here: [GitHub Gists](https://gist.github.com/david-prv/d1c19335a68cd2a9e580f77d2265d0c4)
+
 ---------------------------------
 
 Mirror Repo: On the official GitHub account of [The Pirate Party of Nyrmod](https://github.com/PiratesOfNyrmod/discord-bot)   
